@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adershgr
 - 👀 I’m interested in Web designing
-- 🌱 I’m currently learning React.JS
+- 🌱 I’m currently learning to build user friendly websites
 - 📫 reach me on 8921885939 or adershcgr@gmail.com
 
 <!---
