@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adershgr
-- 👀 I’m interested in Web designing
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning to build user friendly websites
 - 📫 reach me on 8921885939 or adershcgr@gmail.com
 
