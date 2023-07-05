@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adershgr
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning to build user friendly websites
-- 📫 reach me on 8921885939 or adershcgr@gmail.com
+- 👀 I’m interested in software development
+- 🌱 I’m currently building user-friendly websites
+- 📫 reach me at 6363549931 or adershcgr@gmail.com
 
 <!---
 adershgr/adershgr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
